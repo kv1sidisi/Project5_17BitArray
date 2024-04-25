@@ -1,0 +1,1 @@
+add_library(17bit 17bit.cpp)
